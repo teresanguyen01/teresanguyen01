@@ -16,4 +16,4 @@ I'm **Teresa Nguyen**, a Mechanical Engineering student at **Yale University**, 
 - 🐶 I have **three dogs**  
 - 📚 I’m a big fan of **murder mystery novels**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=teresanguyen01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=teresanguyen01&layout=compact&bg_color=0d1117&title_color=ffb6c1&text_color=c9d1d9&icon_color=add8e6" />
