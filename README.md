@@ -15,3 +15,5 @@ I'm **Teresa Nguyen**, a Mechanical Engineering student at **Yale University**, 
 - 🧗‍♀️ I love **climbing** – bouldering and lead are my favorites!  
 - 🐶 I have **three dogs**  
 - 📚 I’m a big fan of **murder mystery novels**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
