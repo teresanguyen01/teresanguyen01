@@ -11,9 +11,4 @@ I'm **Teresa Nguyen**, a Mechanical Engineering student at **Yale University**, 
 - Email: [teresa.nguyen@yale.edu](mailto:teresa.nguyen@yale.edu)  
 - LinkedIn: [[Teresa Nguyen]](https://www.linkedin.com/in/teresaanguyenn/)
 
-### 🌟 Fun Facts
-- 🧗‍♀️ I love **climbing** – bouldering and lead are my favorites!  
-- 🐶 I have **three dogs**  
-- 📚 I’m a big fan of **murder mystery novels**
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teresanguyen01&layout=compact&bg_color=0d1117&title_color=ffb6c1&text_color=c9d1d9&icon_color=add8e6" />
